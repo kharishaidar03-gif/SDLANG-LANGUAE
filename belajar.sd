@@ -1,0 +1,12 @@
+BEL MASUK
+
+IMPORT MATEMATIKA
+TULIS "Selamat pagi, siapkan pensil dan kertas!"
+SOAL "10 + 10" KUNCI "20"
+
+IMPORT SEJARAH
+TULIS "Sekarang ganti buku Sejarah."
+SOAL "Tahun Kemerdekaan Indonesia" KUNCI "1945"
+
+UMUMKAN
+ISTIRAHAT
